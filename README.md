@@ -7,15 +7,6 @@ Email.  [kdhe9797@naver.com](mailto:adalovelace@mail.com)
 
 GitHub. [https://github.com/rlaDonghwan](https://github.com/makenotion)
 
----
-
-# 학력
-
-🎓 인하공업전문대학 [2020. 03 ~]
-
-- 컴퓨터정보공학과 재학중 [3학년]
-- 학점 : 4.05 / 4.5
----
 # 자격증
 
 - 정보처리기능사
