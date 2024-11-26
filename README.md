@@ -18,8 +18,8 @@ GitHub. [https://github.com/rlaDonghwan](https://github.com/makenotion)
 ---
 
 # 기술
-![Java](https://img.shields.io/badge/Java-blue)
-- Front-End : `JavaScript`, `HTML/CSS`, `JSP`
-- Back-End : `JAVA` , `Spring Boot`
+
+- Front-End : - Front-End : ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![HTML/CSS](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white), ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=apache&logoColor=white)
+- Back-End : ![Java](https://img.shields.io/badge/Java-blue) , ![Spring](https://img.shields.io/badge/Spring-green)
 - DataBase : `Mysql`, `Oracle`
 - Etc: `Docker`, `Kubernetes`, `AWS`
