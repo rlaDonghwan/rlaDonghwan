@@ -9,6 +9,7 @@ GitHub. [https://github.com/rlaDonghwan](https://github.com/makenotion)
 
 # 자격증
 
+- 정보처리산업기사
 - 정보처리기능사
 - 워드프로세서
 - 전자기기기능사
@@ -17,7 +18,7 @@ GitHub. [https://github.com/rlaDonghwan](https://github.com/makenotion)
 ---
 
 # 기술
-
+![Java](https://img.shields.io/badge/Java-blue)
 - Front-End : `JavaScript`, `HTML/CSS`, `JSP`
 - Back-End : `JAVA` , `Spring Boot`
 - DataBase : `Mysql`, `Oracle`
