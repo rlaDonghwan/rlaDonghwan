@@ -1,7 +1,5 @@
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaDonghwan&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaDonghwan&show_icons=true&theme=transparent)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhe9797)](https://solved.ac/kdhe9797/)
 
