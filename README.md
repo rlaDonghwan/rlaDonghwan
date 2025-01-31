@@ -5,9 +5,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhe9797)](https://solved.ac/kdhe9797/)
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
-
-
 Email.  [kdhe9797@naver.com](mailto:adalovelace@mail.com)
 
 GitHub. [https://github.com/rlaDonghwan](https://github.com/makenotion)
