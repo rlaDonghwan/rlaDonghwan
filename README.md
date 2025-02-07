@@ -1,6 +1,6 @@
 
   
-  # 👋 Hi, I'm **rlaDonghwan**!
+  # 👋 Hi, I'm **DonghwanKim**!
   
   #### Passionate about developing solutions that make a difference.  
   Every line of code is a step towards a better future.
@@ -86,14 +86,3 @@
 
 ---
 
-<div align="center">
-  
-  ### 💡 "Connecting the dots"  
-  모든 프로젝트와 협업이 모여 하나의 큰 그림을 만든다고 믿습니다.  
-  함께 의미 있는 솔루션을 만들어나가요!
-
-  ---
-  
-  _Feel free to reach out or collaborate with me!_
-  
-</div>
