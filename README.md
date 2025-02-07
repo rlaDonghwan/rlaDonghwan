@@ -43,7 +43,6 @@
 ## 🏅 Certifications (자격증)
 - 📜 **Engineer Information Processing (정보처리산업기사)**
 - 📜 **Craftsman Information Processing (정보처리기능사)**
-- 📜 **Word Processor (워드프로세서)**
 - 📜 **Craftsman Electronic Equipment (전자기기기능사)**
 - 📜 **Korean History Proficiency Test Level 2 (한국사능력검정 2급)**
 
