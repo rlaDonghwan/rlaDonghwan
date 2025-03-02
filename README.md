@@ -4,7 +4,16 @@
 
   ## 📊 GitHub Stats
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaDonghwan&show_icons=true&theme=transparent)
+  <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rlaDonghwan&show_icons=true&theme=transparent" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaDonghwan&layout=compact&theme=transparent" />
+    </td>
+  </tr>
+</table>
 
   ---
 
