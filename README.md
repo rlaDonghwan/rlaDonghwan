@@ -2,15 +2,15 @@
   
   # 👋 Hi, I'm **Donghwan Kim**!
 
-  ## 📊 GitHub Stats
-  
-  <table>
+## 📊 GitHub Stats
+
+<table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rlaDonghwan&show_icons=true&theme=transparent" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rlaDonghwan&show_icons=true&theme=transparent" width="100%"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaDonghwan&layout=compact&theme=transparent" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaDonghwan&layout=compact&theme=transparent" width="100%"/>
     </td>
   </tr>
 </table>
