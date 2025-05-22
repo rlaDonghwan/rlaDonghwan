@@ -79,5 +79,3 @@
 - 📧 **Email**: [kdhe9797@naver.com](mailto:kdhe9797@naver.com)
 
 ---
-
-> 더 많은 정보는 [GitHub 프로필](https://github.com/rladonghwan)에서 확인하실 수 있습니다. 🙌
