@@ -10,16 +10,9 @@
 
 --- 
 
-  ## 🏆 Algorithm Problem Solving
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhe9797)](https://solved.ac/kdhe9797/)
-  
-  ---
-
   ## 📩 Contact
   
   - **Email**: [kdhe9797@naver.com](mailto:kdhe9797@naver.com)  
-  - **GitHub**: [rlaDonghwan](https://github.com/rlaDonghwan)
   
   ---
   
