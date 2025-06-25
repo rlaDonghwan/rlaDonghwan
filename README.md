@@ -90,17 +90,16 @@
 
 ## 🏫 Education
 
-- 🎓 **인하공업전문대학교** 컴퓨터정보공학과 재학 중
+- 🎓 **인하공업전문대학교** 컴퓨터정보공학과(전공심화) 재학 중
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 정보처리산업기사 (Engineer Information Processing)  
-- 🏅 정보처리기능사 (Craftsman Information Processing)  
-- 🏅 전자기기기능사 (Craftsman Electronic Equipment)  
-- 🏅 한국사능력검정 2급 (Korean History Proficiency Level 2)
-
+- 🏅 정보처리산업기사 
+- 🏅 정보처리기능사 
+- 🏅 전자기기기능사 
+- 🏅 한국사능력검정 2급 
 ---
 
 ## 🏆 Awards
