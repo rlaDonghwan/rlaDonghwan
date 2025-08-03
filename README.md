@@ -17,12 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rladonghwan&layout=compact&text_color=ffffff&title_color=2e949f&bg_color=00000000&border_color=2e949f" height="192px"/>
 </div>
 
----
-
-동환님의 대화 기록을 바탕으로 기술 스택을 정리하고, 추가할 수 있는 항목들을 아래와 같이 보완했습니다. 주로 사용한 프레임워크, 도구, 클라우드, 데이터 처리 기술까지 포함했습니다.
-
----
-
 ## ⚙️ Tech Stack
 
 ### 🎨 Front-End
@@ -104,6 +98,7 @@
 
 ## 🏆 Awards
 
+- 🥇 **2025 삼성 ESG 데이터 활용 풀스택 개발자 과정 부트캠프 최우수상**
 - 🥇 **2024 인하공업전문대 해커톤 대회 대상**
 
 ---
