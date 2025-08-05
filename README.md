@@ -19,72 +19,60 @@
 
 ## ⚙️ Tech Stack
 
-### 🎨 Front-End
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jsp,nextjs,react,tailwind,zustand" />
+  </a>
+</p>
+<h3 align="center">🎨 Front-End</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JSP](https://img.shields.io/badge/-JSP-007396?style=flat\&logo=apache\&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat\&logo=react\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat\&logo=zustand\&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,security,nestjs" />
+  </a>
+</p>
+<h3 align="center">🛠 Back-End</h3>
 
-### 🛠 Back-End
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,aws" />
+  </a>
+</p>
+<h3 align="center">🗄 Database</h3>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat\&logo=springsecurity\&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-6DB33F?style=flat\&logo=spring\&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,helm,githubactions" />
+  </a>
+</p>
+<h3 align="center">☁️ DevOps & Cloud</h3>
 
-### 🗄 Database
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,kafka" />
+  </a>
+</p>
+<h3 align="center">📦 Infra & Architecture</h3>
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/-Amazon_RDS-527FFF?style=flat\&logo=amazonaws\&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
+<h3 align="center">🧠 Data & AI</h3>
 
-### ☁️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat\&logo=googlecloud\&logoColor=white)
-![EKS](https://img.shields.io/badge/-EKS-FF9900?style=flat\&logo=amazon-eks\&logoColor=white)
-![GKE](https://img.shields.io/badge/-GKE-34A853?style=flat\&logo=google-cloud\&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat\&logo=helm\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-6B46C1?style=flat\&logo=githubactions\&logoColor=white)
-
-### 📦 Infra & Architecture
-
-![Spring Cloud Gateway](https://img.shields.io/badge/-Spring_Cloud_Gateway-6DB33F?style=flat)
-![Eureka](https://img.shields.io/badge/-Eureka-6DB33F?style=flat)
-![Config Server](https://img.shields.io/badge/-Spring_Config_Server-6DB33F?style=flat)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat\&logo=apachekafka\&logoColor=white)
-
-### 🧠 Data & AI
-
-![NetCDF](https://img.shields.io/badge/-NetCDF-005F6A?style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
-
----
-## 🛠 Development Tools
-
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![kubectl](https://img.shields.io/badge/-kubectl-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=intellij,eclipse,vscode,androidstudio,git,postman" />
+  </a>
+</p>
+<h3 align="center">🛠 Development Tools</h3>
 
 ---
 
 ## 🏫 Education
 
-- 🎓 **인하공업전문대학교** 컴퓨터정보공학과(전공심화) 재학 중
+- 🎓 **인하공업전문대학교** 컴퓨터정보공학과(전공심화) 졸업예정
 
 ---
 
