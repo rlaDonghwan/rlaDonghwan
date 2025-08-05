@@ -35,14 +35,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,aws" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
 <h3 align="center">☁️ DevOps & Cloud</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,helm,githubactions" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
   </a>
 </p>
 
