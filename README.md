@@ -21,14 +21,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind,zustand" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind" />
   </a>
 </p>
 <h3 align="center">🎨 Front-End</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,security,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nestjs" />
   </a>
 </p>
 <h3 align="center">🛠 Back-End</h3>
