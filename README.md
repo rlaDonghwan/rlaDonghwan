@@ -42,14 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,helm,githubactions" />
-  </a>
-</p>
-<h3 align="center">📦 Infra & Architecture</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,kafka" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,helm,githubactions" />
   </a>
 </p>
 
