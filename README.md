@@ -18,55 +18,48 @@
 </div>
 
 ## ⚙️ Tech Stack
-
+<h3 align="center">🎨 Front-End</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind" />
-  </a>
-</p>
-<h3 align="center">🎨 Front-End</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nestjs" />
   </a>
 </p>
 <h3 align="center">🛠 Back-End</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,aws" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nestjs" />
   </a>
 </p>
 <h3 align="center">🗄 Database</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,helm,githubactions" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,aws" />
   </a>
 </p>
 <h3 align="center">☁️ DevOps & Cloud</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,kafka" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,helm,githubactions" />
   </a>
 </p>
 <h3 align="center">📦 Infra & Architecture</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=spring,kafka" />
   </a>
 </p>
-<h3 align="center">🧠 Data & AI</h3>
+
+<h3 align="center">🛠 Development Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=intellij,eclipse,vscode,androidstudio,git,postman" />
   </a>
 </p>
-<h3 align="center">🛠 Development Tools</h3>
 
 ---
 
