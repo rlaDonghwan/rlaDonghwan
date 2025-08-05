@@ -14,14 +14,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rladonghwan&show_icons=true&theme=transparent&bg_color=00000000&title_color=2e949f&text_color=ffffff&icon_color=2e949f&border_color=2e949f" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rladonghwan&layout=compact&text_color=ffffff&title_color=2e949f&bg_color=00000000&border_color=2e949f" height="192px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rladonghwan&text_color=ffffff&title_color=2e949f&bg_color=00000000&border_color=2e949f" height="192px"/>
 </div>
 
 ## ⚙️ Tech Stack
 <h3 align="center">🎨 Front-End</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,ts,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" />
   </a>
 </p>
 <h3 align="center">🛠 Back-End</h3>
