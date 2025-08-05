@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=intellij,eclipse,vscode,androidstudio,git,postman" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,androidstudio,github,postman" />
   </a>
 </p>
 
