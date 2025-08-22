@@ -11,7 +11,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rladonghwan&show_icons=true&theme=transparent&bg_color=00000000&title_color=2e949f&text_color=ffffff&icon_color=2e949f&border_color=2e949f" height="192px"/>
   
